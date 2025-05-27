@@ -63,11 +63,11 @@ Add unit testing for class logic
 bash
 Copy
 Edit
-|\t1. Add a Product
-|\t2. Remove a Product
-|\t3. Add a Customer
-|\t4. Remove a Customer
+1. Add a Product
+2. Remove a Product
+3. Add a Customer
+4. Remove a Customer
 ...
-|\t14. Exit the Program :
+14. Exit the Program :
 👨‍💻 Author
 Made by Younes on the path to becoming a pro Python developer!
